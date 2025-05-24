@@ -64,7 +64,7 @@
 
 @layer utilities {
   .border-hsla {
-    @apply border border-white/20;
+    @apply border border-white/40;
   }
 
   .nav-hover-btn {
@@ -118,11 +118,11 @@
   }
 
   .bento-tilt_1 {
-    @apply relative border border-white/20 col-span-2 overflow-hidden rounded-md transition-transform duration-300 ease-out;
+    @apply relative border border-white/40 col-span-2 overflow-hidden rounded-md transition-transform duration-300 ease-out;
   }
 
   .bento-tilt_2 {
-    @apply relative border border-white/20 col-span-1 row-span-1 overflow-hidden rounded-md transition-transform duration-300 ease-out;
+    @apply relative border border-white/40 col-span-1 row-span-1 overflow-hidden rounded-md transition-transform duration-300 ease-out;
   }
 
   .bento-title {
