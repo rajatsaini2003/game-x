@@ -92,12 +92,17 @@ const NavBar = () => {
                 <div className='flex items-center gap-7'>
                     <img src='/img/logo.png' alt='logo'
                     className='w-10 ' />
-                    <Button
-                      id="product-button"
-                      title="Products"
-                      rightIcon={<TiLocationArrow/>}
-                      containerClass="bg-blue-50 md:flex hidden item-center justify-center gap-1"
-                      />
+                    <Link
+                    to={'/about'}
+                    >
+                        <Button
+                        id="product-button"
+                        title="Products"
+                        rightIcon={<TiLocationArrow/>}
+                        containerClass="bg-blue-50 md:flex hidden item-center justify-center gap-1"
+                        />
+                    </Link>
+                    
                 </div>
                 {/* Navigation Links and Audio Button */}
                 <div className='flex h-full items-center'>
