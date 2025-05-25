@@ -1,6 +1,6 @@
 # Zentry Clone
 
-A responsive and animated clone of the Zentry website, built with React, Tailwind CSS, and GSAP. This project showcases smooth animations, interactive elements, and accessibility features, serving as a learning and experimentation platform for front-end technologies.
+A responsive and animated website inspired from the Zentry website, built with React, Tailwind CSS, and GSAP. This project showcases smooth animations, interactive elements, and accessibility features, serving as a learning and experimentation platform for front-end technologies.
 
 ## Features
 
@@ -11,7 +11,7 @@ A responsive and animated clone of the Zentry website, built with React, Tailwin
 
 ## Live Demo
 
-Experience the live version here: [Zentry Clone](https://zentry-clonee.vercel.app/)
+Experience the live version here: [Game-x](https://game-x-20.netlify.app)
 
 ## Installation
 
